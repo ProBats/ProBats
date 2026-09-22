@@ -61,3 +61,19 @@ What YOU personally designed or built.
   ?username=YOUR_HANDLE&theme=2077" width="100%" />
 
 </div>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - What you're currently studying
+  - New tech or concept you're exploring
+
+building:
+  - Project 1  # short description
+  - Project 2  # short description
+
+open_to:
+  - Type of role you want
+  - Industry or environment preference
+```
