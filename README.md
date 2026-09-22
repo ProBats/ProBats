@@ -24,3 +24,19 @@ DOMAIN   =  Area1  |  Area2  |  Area3
 STACK    =  Tech1  |  Tech2  |  Tech3
 OPEN_TO  =  Senior / Staff Engineering roles
 ```
+
+<details open>
+<summary><b>&#9654; Project Name &mdash; Tagline</b></summary>
+
+One sentence description.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Tech1 &middot; Tech2 &middot; Tech3 |
+| **Scale** | Who uses it / how many users |
+| **Impact** | Key outcome or metric |
+| **Repo** | [View](https://github.com/HANDLE/repo) |
+
+What YOU personally designed or built.
+
+</details>
