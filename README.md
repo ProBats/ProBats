@@ -40,3 +40,24 @@ One sentence description.
 What YOU personally designed or built.
 
 </details>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api
+  ?username=YOUR_HANDLE&show_icons=true
+  &hide_border=true&title_color=CAFF3C
+  &icon_color=8AFF57&text_color=E8F5E1
+  &bg_color=0A0F08" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/
+  ?user=YOUR_HANDLE&hide_border=true
+  &background=0A0F08&stroke=CAFF3C
+  &ring=8AFF57&fire=CAFF3C
+  &currStreakLabel=CAFF3C" />
+
+<!-- contribution timeline card -->
+<img src="https://github-profile-summary-cards.vercel.app
+  /api/cards/profile-details
+  ?username=YOUR_HANDLE&theme=2077" width="100%" />
+
+</div>
