@@ -1,27 +1,27 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121417&text=Max%20Erik%20Rodriguez&fontSize=42&fontAlignY=45&subtext=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&subfontSize=18&subfontAlignY=70&fontColor=F4EBD9&subfontColor=D4A373" alt="Banner Max Erik Rodriguez" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=F4EBD9&center=true&vCenter=true&width=800&lines=%24+whoami+--role+%22Backend+Engineer%22;%24+cat+stack.txt+-%3E+Java+%7C+Spring+Boot+%7C+JPA+%7C+MySQL;%24+docker+ps+--status+%22Containerized+Services+Active%22;%24+git+status+-%3E+Open+to+Backend+Developer+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=F4EBD9&center=true&vCenter=true&width=800&lines=%24+whoami+--role+%22Backend+Engineer%22;%24+cat+stack.txt+-%3E+Java+%7C+Spring+Boot+%7C+JPA+%7C+MySQL;%24+docker+ps+--status+%22Servicios+Contenerizados+Activos%22;%24+git+status+-%3E+Abierto+a+Oportunidades+Backend" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-### `> sys --info`
+### 📌 Información General
 
-<a href="#-show---education"><img src="https://img.shields.io/badge/Estudios-Desarrollo%20Web%20y%20Backend-F4EBD9?style=flat-square&logo=academia&logoColor=121417&labelColor=282E38" alt="Estudios" /></a>
-<a href="#-show---education"><img src="https://img.shields.io/badge/Instituci%C3%B3n-CFP%208%20Smata%20%7C%20TalentoTech-D4A373?style=flat-square&logo=googleclassroom&logoColor=121417&labelColor=282E38" alt="Institución" /></a>
+<a href="#-educación-y-formación"><img src="https://img.shields.io/badge/Estudios-Desarrollo%20Web%20y%20Backend-F4EBD9?style=flat-square&logo=academia&logoColor=121417&labelColor=282E38" alt="Estudios" /></a>
+<a href="#-educación-y-formación"><img src="https://img.shields.io/badge/Instituci%C3%B3n-CFP%208%20Smata%20%7C%20TalentoTech-D4A373?style=flat-square&logo=googleclassroom&logoColor=121417&labelColor=282E38" alt="Institución" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Buenos%20Aires,%20Argentina-F4EBD9?style=flat-square&logo=googlemaps&logoColor=121417&labelColor=282E38" alt="Ubicación" /></a>
 
-### `> cta --connect`
+### 📬 Contacto y Redes
 
 <a href="https://www.linkedin.com/in/max-e-rodriguez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Max_Erik_Rodriguez-F4EBD9?style=for-the-badge&logo=linkedin&logoColor=121417&labelColor=282E38" alt="LinkedIn" /></a>
 <a href="mailto:max.e.rodriguez@gmail.com"><img src="https://img.shields.io/badge/Email-max.e.rodriguez%40gmail.com-D4A373?style=for-the-badge&logo=gmail&logoColor=121417&labelColor=282E38" alt="Email" /></a>
 <a href="https://github.com/ProBats" target="_blank"><img src="https://img.shields.io/badge/GitHub-ProBats-F4EBD9?style=for-the-badge&logo=github&logoColor=121417&labelColor=282E38" alt="GitHub" /></a>
 <a href="https://github.com/ProBats/Entregas" target="_blank"><img src="https://img.shields.io/badge/Proyectos-Entregas%20Repo-D4A373?style=for-the-badge&logo=git&logoColor=121417&labelColor=282E38" alt="Repo Proyectos" /></a>
 
-### `> fetch --metrics`
+### 📈 Métricas de Perfil
 
-<img src="https://komarev.com/ghpvc/?username=ProBats&label=Profile%20Views&color=D4A373&style=flat-square&labelColor=282E38" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ProBats&label=Visitas%20al%20Perfil&color=D4A373&style=flat-square&labelColor=282E38" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/ProBats?style=flat-square&color=F4EBD9&labelColor=282E38&logo=github&logoColor=F4EBD9" alt="Followers" />
 <img src="https://img.shields.io/github/stars/ProBats?style=flat-square&color=D4A373&labelColor=282E38&logo=readdotcv&logoColor=D4A373" alt="Stars" />
 
@@ -29,7 +29,7 @@
 
 ---
 
-## `> cat about_me.sh`
+## 👨‍💻 Sobre Mí
 
 Desarrollador Backend con sólida formación de 3 años en el ecosistema Java y desarrollo web integral. Especializado en la creación de aplicaciones con Spring Boot, persistencia relacional con JPA/Hibernate y diseño de bases de datos estructuradas en MySQL, PostgreSQL y SQL Server. Enfocado en la resolución analítica de problemas, buenas prácticas de arquitectura y abierto a incorporarse en equipos técnicos como Desarrollador Backend o Full Stack en modalidad remota.
 
@@ -45,7 +45,7 @@ OPEN_TO="Desarrollador Backend | Remoto | Web Developer"
 
 ---
 
-## `> ls -la /tech-stack`
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -61,7 +61,7 @@ OPEN_TO="Desarrollador Backend | Remoto | Web Developer"
 
 ---
 
-## `> check-spec --focus`
+## 🎯 Áreas de Especialización
 
 <div align="center">
 
@@ -75,7 +75,7 @@ OPEN_TO="Desarrollador Backend | Remoto | Web Developer"
 
 ---
 
-## `> table --expertise`
+## 📋 Matriz de Competencias
 
 | Dominio | Nivel de Competencia | Tecnologías y Detalles Clave |
 | :--- | :---: | :--- |
@@ -88,7 +88,7 @@ OPEN_TO="Desarrollador Backend | Remoto | Web Developer"
 
 ---
 
-## `> git log --featured-projects`
+## 🚀 Proyectos Destacados
 
 <details open>
 <summary><b>📂 Sistema de Gestión Escolar — Control de Alumnos</b></summary>
@@ -109,7 +109,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> history --experience`
+## 💼 Trayectoria y Experiencia Práctica
 
 ### `2021 — Presente` | Desarrollo de Proyectos & Formación Técnica Intensiva
 *Autodidacta & Proyectos Académicos (CFP 8 Smata / TalentoTech)*
@@ -124,7 +124,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> verify --achievements`
+## 🏆 Logros y Metas Cumplidas
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> show --education`
+## 🎓 Educación y Formación
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> inspect --code-platforms`
+## 💻 Código y Repositorios
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> analytics --github-stats`
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> trophy --list`
+## 🏅 Trofeos y Reconocimientos
 
 <div align="center">
 
@@ -189,7 +189,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> git-graph --activity`
+## 📈 Gráfico de Actividad
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> summary --insights`
+## 🔍 Resumen y Métricas Clave
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> run snake-eating-contributions`
+## 🐍 Gráfico de Contribuciones
 
 <div align="center">
 
@@ -226,7 +226,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ---
 
-## `> cat current_focus.yaml`
+## 🎯 Enfoque Actual y Objetivos
 
 ```yaml
 current_focus:
@@ -247,7 +247,7 @@ current_focus:
 
 ---
 
-## `> exit 0 --disconnect`
+## 🤝 Conectemos
 
 <div align="center">
 
