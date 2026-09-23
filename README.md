@@ -174,7 +174,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ProBats&theme=darkhub&column=7&margin_w=15&margin_h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=ProBats&theme=darkhub&column=7&margin_w=15&margin_h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 
 </div>
 
@@ -184,7 +184,7 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProBats&bg_color=121417&color=E5E7EB&line=D4A373&point=F4EBD9&area=true&hide_border=false&border=282E38" alt="Activity Graph" width="100%" />
+<img src="https://github-activity-graph.vercel.app/graph?username=ProBats&bg_color=121417&color=E5E7EB&line=D4A373&point=F4EBD9&area=true&hide_border=false&border=282E38" alt="Activity Graph" width="100%" />
 
 </div>
 
