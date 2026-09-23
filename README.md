@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121417&text=Max%20Erik%20Rodriguez&fontSize=42&fontAlignY=45&subtext=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&subfontSize=18&subfontAlignY=70&fontColor=F4EBD9&subfontColor=D4A373" alt="Banner Max Erik Rodriguez" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=F4EBD9&center=true&vCenter=true&width=800&lines=%24+whoami+--role+%22Backend+Engineer%22;%24+cat+stack.txt+-%3E+Java+%7C+Spring+Boot+%7C+JPA+%7C+MySQL;%24+docker+ps+--status+%22Servicios+Contenerizados+Activos%22;%24+git+status+-%3E+Abierto+a+Oportunidades+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=1000&color=F4EBD9&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Max+Erik+Rodriguez;Desarrollador+Backend+Java+%26+Spring+Boot;Especializado+en+APIs+REST%2C+JPA+y+Bases+de+Datos+SQL;Abierto+a+oportunidades+laborales+(Modalidad+Remota)" alt="Typing SVG" />
 </div>
 
 <div align="center">
