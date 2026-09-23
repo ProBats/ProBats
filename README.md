@@ -219,22 +219,11 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 ## 🎯 Enfoque Actual y Objetivos
 
-```yaml
-current_focus:
-  status: "Búsqueda activa de oportunidades laborales"
-  open_to:
-    - "Desarrollador Backend Java"
-    - "Desarrollador Web Full Stack"
-    - "Modalidad Remota"
-  building:
-    - "Refactorización y mantenimiento del sistema de gestión Control de Alumnos"
-    - "Nuevas APIs REST modulares orientadas a servicios empresariales"
-  learning:
-    - "Patrones de diseño de software y Clean Architecture"
-    - "Profundización en despliegue de microservicios y Docker"
-  exploring:
-    - "Spring Security & JWT para autenticación robusta"
-```
+* 💼 **Estado:** En búsqueda activa de oportunidades laborales.
+* 🌐 **Roles de interés:** Desarrollador Backend Java &middot; Full Stack &middot; Modalidad Remota.
+* 🔨 **Proyectos en marcha:** Refactorización y optimización continua del sistema de gestión *Control de Alumnos* y creación de nuevas APIs REST modulares.
+* 📚 **Consolidando conocimientos:** Patrones de diseño de software, Clean Architecture y despliegues con Docker.
+* 🔐 **Explorando activamente:** Implementación de seguridad en aplicaciones con Spring Security y autenticación mediante JWT.
 
 ---
 
