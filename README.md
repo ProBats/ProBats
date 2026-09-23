@@ -33,15 +33,6 @@
 
 Desarrollador Backend con sólida formación de 3 años en el ecosistema Java y desarrollo web integral. Especializado en la creación de aplicaciones con Spring Boot, persistencia relacional con JPA/Hibernate y diseño de bases de datos estructuradas en MySQL, PostgreSQL y SQL Server. Enfocado en la resolución analítica de problemas, buenas prácticas de arquitectura y abierto a incorporarse en equipos técnicos como Desarrollador Backend o Full Stack en modalidad remota.
 
-```bash
-#!/usr/bin/env bash
-
-ROLE="Backend Engineer / Full Stack Java"
-EXP="3 años (Formación técnica continua y desarrollo práctico)"
-DOMAINS=("Gestión Estudiantil" "E-Commerce" "Sistemas Web")
-STACK=("Java" "Spring Boot" "JPA / Hibernate" "MySQL" "Docker")
-OPEN_TO="Desarrollador Backend | Remoto | Web Developer"
-```
 
 ---
 
