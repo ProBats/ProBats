@@ -159,12 +159,12 @@ Sistema integral desarrollado para la administración y seguimiento de alumnos e
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ProBats&show_icons=true&title_color=F4EBD9&text_color=E5E7EB&icon_color=D4A373&bg_color=121417&border_color=282E38&hide_border=false" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProBats&show_icons=true&title_color=F4EBD9&text_color=E5E7EB&icon_color=D4A373&bg_color=121417&border_color=282E38&hide_border=false" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ProBats&background=121417&border=282E38&stroke=282E38&ring=D4A373&fire=D4A373&currStreakNum=F4EBD9&sideNums=F4EBD9&currStreakLabel=D4A373&sideLabels=D4A373&dates=E5E7EB" alt="GitHub Streak" />
 
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProBats&layout=compact&title_color=F4EBD9&text_color=E5E7EB&bg_color=121417&border_color=282E38&hide_border=false" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProBats&layout=compact&title_color=F4EBD9&text_color=E5E7EB&bg_color=121417&border_color=282E38&hide_border=false" alt="Top Languages" />
 
 </div>
 
